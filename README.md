@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisharanputhiyottum&label=Profile%20views&color=0e75b6&style=flat" alt="saisharanputhiyottum" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Backend Web Development**
 
 - 📫 How to reach me **saisharanputhiyottum@gmail.com**
 
